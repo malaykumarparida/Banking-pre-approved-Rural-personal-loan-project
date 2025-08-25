@@ -1,4 +1,4 @@
-# Bank Personal Loan Lead Analysis – Axis Bank (Rural Customers)
+# Bank Personal Loan Lead Analysis – Banking (Rural Customers)
 
 This project demonstrates a complete **end-to-end data analyst workflow** using **MySQL** and **Python (Pandas)** to identify rural customers who are eligible for **pre-approved personal loans**. The goal was to generate high-quality leads and reduce unnecessary calling efforts by bank employees.  
 
@@ -72,5 +72,5 @@ Each table contains **more than 500 records**.
 ---
 
 **Author:** Malay Kumar Parida
-https://www.linkedin.com/in/malay-kumar-parida/
-malayparida96@gmail.com
+--https://www.linkedin.com/in/malay-kumar-parida/
+--malayparida96@gmail.com
