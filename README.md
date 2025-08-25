@@ -56,11 +56,6 @@ Each table contains **more than 500 records**.
 - Built a **reusable SQL + Python pipeline** for banking analytics  
 - Provided a **scalable framework** for future loan campaigns  
 
-## Future Enhancements
-- Add **machine learning lead scoring models**  
-- Build **Tableau or Power BI dashboards**  
-- Automate the entire pipeline using **Airflow or cron jobs**  
-
 ---
 
 ### How to Run
