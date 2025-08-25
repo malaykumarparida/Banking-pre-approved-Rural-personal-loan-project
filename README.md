@@ -58,14 +58,6 @@ Each table contains **more than 500 records**.
 
 ---
 
-### How to Run
-1. Clone this repository  
-2. Import SQL files into MySQL to create database & tables  
-3. Run Python scripts for cleaning and EDA  
-4. Execute queries to generate the final lead list  
-
----
-
 **Author:** Malay Kumar Parida
 
 https://www.linkedin.com/in/malay-kumar-parida/
