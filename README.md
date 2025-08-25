@@ -10,7 +10,7 @@ This project demonstrates a complete **end-to-end data analyst workflow** using 
   - **Python (Pandas)** – missing value imputation, EDA, and preprocessing  
 
 ## Problem Statement
-Axis Bank faced the issue of making many calls to customers but generating fewer leads for personal loans. The objective was to filter and prioritize customers who are more likely to take a loan.
+Banking faced the issue of making many calls to customers but generating fewer leads for personal loans. The objective was to filter and prioritize customers who are more likely to take a loan.
 
 ## Datasets
 1. Customer Demographics (age, gender, occupation, location)  
@@ -72,3 +72,5 @@ Each table contains **more than 500 records**.
 ---
 
 **Author:** Malay Kumar Parida
+https://www.linkedin.com/in/malay-kumar-parida/
+malayparida96@gmail.com
