@@ -72,5 +72,6 @@ Each table contains **more than 500 records**.
 ---
 
 **Author:** Malay Kumar Parida
---https://www.linkedin.com/in/malay-kumar-parida/
---malayparida96@gmail.com
+https://www.linkedin.com/in/malay-kumar-parida/
+
+malayparida96@gmail.com
